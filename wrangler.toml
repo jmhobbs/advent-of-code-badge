@@ -1,0 +1,11 @@
+name = "aoc"
+main = "src/index.ts"
+compatibility_date = "2022-12-05"
+usage_model = "bundled"
+env = { }
+
+[vars]
+LEADERBOARD="4896"
+
+# You will need to change "LEADERBOARD" and add a secret for "SESSION_TOKEN",
+# which is the value of the `session` cookie from adventofcode.com
